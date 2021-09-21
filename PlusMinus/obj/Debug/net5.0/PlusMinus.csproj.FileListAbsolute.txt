@@ -1,0 +1,16 @@
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.exe
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.deps.json
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.runtimeconfig.json
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.runtimeconfig.dev.json
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.dll
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\ref\PlusMinus.dll
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\bin\Debug\net5.0\PlusMinus.pdb
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.AssemblyInfoInputs.cache
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.AssemblyInfo.cs
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.dll
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\ref\PlusMinus.dll
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.pdb
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.genruntimeconfig.cache
+C:\Users\anil_\OneDrive\Documents\dev\PlusMinus\PlusMinus\PlusMinus\obj\Debug\net5.0\PlusMinus.csproj.AssemblyReference.cache
